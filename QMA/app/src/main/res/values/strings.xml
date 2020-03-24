@@ -1,0 +1,20 @@
+<resources>
+    <string name="google_maps_api_key">AIzaSyAfy4c-Cr9EaLxW1A4Vv1qtQ4BnhB03lc8</string>
+    <string name="app_name">QMA</string>
+    <string name="logo">Stay Safe, Stay Home</string>
+    <string name="log_in">Verify OTP</string>
+    <string name="Enter_Phone">Enter Phone Number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="send_report">Send Report</string>
+    <string name="submit">Submit</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="done">Done</string>
+    <string name="report_submitted">Report Submitted Successfully</string>
+
+    <string-array name="options_spinner">
+        <item>Body Temperature</item>
+        <item>Problem in eyes</item>
+        <item>Breathing Problem</item>
+        <item>Dry Cough</item>
+    </string-array>
+</resources>

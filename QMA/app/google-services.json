@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145577162939",
+    "firebase_url": "https://currency-converter-f1199.firebaseio.com",
+    "project_id": "currency-converter-f1199",
+    "storage_bucket": "currency-converter-f1199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145577162939:android:ae59e5085660d2b5e0519e",
+        "android_client_info": {
+          "package_name": "com.bugslayers.qma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145577162939-l49rlau5or2l470dqd2lvclbkls1mjs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bugslayers.qma",
+            "certificate_hash": "3025cb66a45b50407315dc43fd5c31f23408b6ad"
+          }
+        },
+        {
+          "client_id": "145577162939-eb6gq2lo4di0q88k7j4rj0ef7iqb4t6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfy4c-Cr9EaLxW1A4Vv1qtQ4BnhB03lc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145577162939-eb6gq2lo4di0q88k7j4rj0ef7iqb4t6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
